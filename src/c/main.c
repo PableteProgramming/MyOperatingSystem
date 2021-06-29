@@ -1,4 +1,4 @@
-#include "func.h"
+#include "screen.h"
 
 void cmain(){
     char* str= "Hello World from kernel !";
