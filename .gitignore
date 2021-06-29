@@ -1,0 +1,8 @@
+#ignore objects
+/obj/
+
+#ignore output
+/output/
+
+#ignore ISO dir
+/ISO/
